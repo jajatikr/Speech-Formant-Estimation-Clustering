@@ -2,5 +2,6 @@ numpy
 scipy
 matplotlib
 sklearn
+jupyter
 audiolazy
 peakutils
