@@ -7,4 +7,4 @@ Speech formant estimation and clustering using KMeans algorithm
 
    `pip3 install --user -r requirements.txt`
 
-2. Open Jupyter notebook and select option to run all cells
+2. Open the provided [Jupyter notebook](https://github.com/jajatikr/Speech-Formant-Estimation-Clustering/blob/master/speech_formant_estimation_and_clustering.ipynb) and select option to run all cells
